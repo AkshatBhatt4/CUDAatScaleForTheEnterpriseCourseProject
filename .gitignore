@@ -4,7 +4,6 @@ bin/
 obj/
 
 # Output directories
-output/
 
 # Compiled objects
 *.o
