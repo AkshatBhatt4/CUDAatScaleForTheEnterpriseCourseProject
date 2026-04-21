@@ -31,7 +31,7 @@ cmake --build . --config Release
 
 ## Code Organization
 - `aerials/` This folder holds the USC-SIPI aerial image dataset (38 TIFF images).
-- `Execution/` Contains sample execution log for proof of execution.
+- `execution/` Contains sample execution log for proof of execution.
 - `Output/` Contains the Output files.
 - `src/` The source code for this project.
 - `CMakeLists.txt` CMake build configuration for this project.
